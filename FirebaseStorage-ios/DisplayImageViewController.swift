@@ -9,6 +9,7 @@ import UIKit
 import Firebase
 import FirebaseStorage
 
+//画像を表示
 class DisplayImageViewController: UIViewController {
     
     let storageRef = Storage.storage().reference(forURL: "gs://fir-storage-ios-f8060.appspot.com")

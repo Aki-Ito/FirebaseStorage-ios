@@ -9,6 +9,7 @@ import UIKit
 import Firebase
 import FirebaseStorage
 
+//画像を選択
 class SelectImageViewController: UIViewController {
     
     
