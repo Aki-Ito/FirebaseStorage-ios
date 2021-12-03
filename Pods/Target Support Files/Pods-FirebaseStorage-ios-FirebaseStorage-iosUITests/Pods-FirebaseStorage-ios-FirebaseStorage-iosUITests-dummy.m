@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_FirebaseStorage_ios_FirebaseStorage_iosUITests : NSObject
+@end
+@implementation PodsDummy_Pods_FirebaseStorage_ios_FirebaseStorage_iosUITests
+@end

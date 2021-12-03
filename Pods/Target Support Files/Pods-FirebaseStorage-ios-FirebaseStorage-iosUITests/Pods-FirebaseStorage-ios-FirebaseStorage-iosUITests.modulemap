@@ -1,0 +1,6 @@
+framework module Pods_FirebaseStorage_ios_FirebaseStorage_iosUITests {
+  umbrella header "Pods-FirebaseStorage-ios-FirebaseStorage-iosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
